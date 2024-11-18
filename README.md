@@ -118,15 +118,11 @@ Los archivos JSON generados incluyen:
 
 ## 📱 Redes Sociales
 
-## Conéctate conmigo:
-
 1. 🎬 [Youtube](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
 2. 👨‍💼 [LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)
 3. 📷 [Instagram](https://www.instagram.com/juancito.pena.v/)
 4. 📑 [Facebook](https://www.facebook.com/juancito.p.v)
 5. 🐦 [Twitter](https://twitter.com/JuancitoPenaV)
-6. 📧 Email: [juancito.pena@gmail.com](mailto:juancito.pena@gmail.com)
-
 
 ## 📬 Contacto Directo
 
