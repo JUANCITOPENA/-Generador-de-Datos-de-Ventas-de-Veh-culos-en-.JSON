@@ -145,4 +145,5 @@ Los archivos JSON generados incluyen:
 4. 📫 Envía un pull request
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo `LICENSE.md` para más detalles.
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
